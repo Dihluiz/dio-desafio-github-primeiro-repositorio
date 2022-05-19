@@ -1,0 +1,16 @@
+Aqui está algumas anotações do que estou aprendendo nos bootcamps. Atualmente (Maio/2022) estou fazendo dois.
+- DIO Innovation
+- StartSe
+
+O da DIO estou fazendo GFT Start Java pois é o caminho que quero prosseguir, por isso quero ja deixar aqui registrado para futuramente vier vê esse repositório
+lembra do inicio de onde tudo começou. 
+Na DIO ate agora aprendir: 
+- Logica de programação
+- Pensamento Computacional
+- Uma breve introdução ao Git/Github (Como usar o terminal Windows, como usar o GitBash e seus comandos: Git init, git add., git commit -a, atalhos Ctrl L ...)
+
+
+O da StartSe já é um bootcamp de fullstack de 3 meses que observei a atenção deles a muito detalhes. Estou aprendendo/aprendir:
+- Introdução, sistemas e Apçicações que vimos sobre Hardware, Software, Internet e etc.
+- Linguagem de programçao como de praxe.
+- HTML e seus elementos como sua suas tags, esquelento de como é feito, DOM, links e afins.
